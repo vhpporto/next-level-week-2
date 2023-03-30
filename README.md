@@ -2,10 +2,8 @@
 
 
 
-📱 - `:iphone:`
 
-
-📱 - :iphone
+📱 - :iphone:
 📋 - :clipboard:
 🚀 - :rocket:
 🐱‍🏍 - :cat_riding_a_motorcycle:
